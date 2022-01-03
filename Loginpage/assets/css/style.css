@@ -1,0 +1,9 @@
+.login{
+    background-color: aquamarine;
+    width: 313px;
+    text-align: center;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,9 @@
+.register{
+    background-color: brown;
+    width: 313px;
+    text-align: center;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
